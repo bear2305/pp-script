@@ -1,5 +1,12 @@
 # PP — Python HTTP Server Launcher
 
+
+<img width="1908" height="1076" alt="image" src="https://github.com/user-attachments/assets/53cfbc62-c74e-4cc9-ac8f-9b8940e86ccf" />
+
+
+
+
+
 PP is a small Bash utility that makes it quick and convenient to start Python's built-in HTTP server from the terminal.
 
 Instead of repeatedly typing:
